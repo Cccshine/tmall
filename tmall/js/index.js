@@ -272,12 +272,12 @@ DOMReady(function() {
 		oLastSd.className = '';
 		doMove(oLastBg, {
 			'opacity': 0
-		}, 10);
+		}, 5);
 		bannerBgs[iNum].style.display = 'block';
 		sliders[iNum].className = 'active';
 		doMove(bannerBgs[iNum], {
 			'opacity': 100
-		}, 10);
+		}, 5);
 		oLastBg = bannerBgs[iNum];
 		oLastSd = sliders[iNum];
 	}
