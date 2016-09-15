@@ -1,7 +1,6 @@
 <?php 
 DEFINE('DB_USER','root');
-DEFINE('DB_PASSWORD','0914');
-// DEFINE('DB_PASSWORD','770809');
+DEFINE('DB_PASSWORD','****');
 DEFINE('DB_HOST','localhost');
 DEFINE('DB_NAME','tmall');
 
